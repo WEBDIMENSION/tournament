@@ -1,0 +1,21 @@
+{
+    "name": "webdimension/session-mysql",
+    "type": "library",
+    "description": "PHP Session Save MySQL",
+    "keywords": ["php", "mysql"],
+    "homepage": "https://github.com/webdimension/tournament",
+    "license": "MIT",
+    "authors": [
+    {
+        "name": "WEBDIMENSION"
+    }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webdimension\\Tournament\\": "src/"
+        }
+    }
+}
