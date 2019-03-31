@@ -6,7 +6,7 @@
  * Time: 20:20
  */
 
-namespace Webdimension\SessionHandler;
+namespace Webdimension\Tournament;
 
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;

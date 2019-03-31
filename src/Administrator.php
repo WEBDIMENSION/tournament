@@ -1,6 +1,6 @@
 <?php
 
-namespace Webdimension\Administrator;
+namespace Webdimension\Tournament;
 
 use pdo;
 

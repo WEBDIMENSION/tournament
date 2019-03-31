@@ -1,6 +1,6 @@
 <?php
 
-namespace Webdimension\SessionHandler;
+namespace Webdimension\Tournament;
 
 use mysqli;
 final class SessionHandlerMysqli implements \SessionHandlerInterface

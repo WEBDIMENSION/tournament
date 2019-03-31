@@ -1,6 +1,6 @@
 <?php
 
-namespace Webdimension\SessionHandler;
+namespace Webdimension\Tournament;
 
 /**
  * A PHP session handler using PDO to keep session data within a MySQL database

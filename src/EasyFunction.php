@@ -1,5 +1,5 @@
 <?php
-namespace Webdimension\SessionHandler;
+namespace Webdimension\Tournament;
 
 use PDO;
 
